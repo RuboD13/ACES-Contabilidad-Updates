@@ -1,7 +1,7 @@
 {
   "artifact_url": "https://raw.githubusercontent.com/RuboD13/ACES-Contabilidad-Updates/main/ACES_Contabilidad.exe",
   "key_id": "release",
-  "sha256": "28dedc36547a11540f786aa85930f5b79cd4afba30f7d6a1470097432b566bda",
-  "signature": "XxISEIGS-cMWe5MnT1gBUvQsaS3nX_NVpb-aAL4HHsPR8o5yOCD0yo25R2CWmrOklxm3UJZhx4E4LtZopR8MAQ",
-  "version": "1.0.0"
+  "sha256": "348a25c1d6e6ca767a1b07c6419a1614b3ac8a48b8b7fc511d432278317a7b00",
+  "signature": "Vub6SWwqn3nM5ks0mkumK_Q1pbyZoCcN7Qw5ReVHarJR9OT20rIfsvFalDvUu_psLcGVNPF-qbJHq_ZKJ96_AA",
+  "version": "1.0.1"
 }
